@@ -1,0 +1,2 @@
+# premium-hewing-axe-001-hewing-axe-forging-timber-fl
+Tired of losing track of your hewing axe's heat-treat cycles or forgetting which timber grain works best for a flat-craft finish? This Notion template turns your chaotic workshop notes into a streamlined forge-to-timber system.  It solves the pain of scattered project data by providing a dedicated hub for every stage—from forging specs and steel se
